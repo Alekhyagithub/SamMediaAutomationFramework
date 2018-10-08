@@ -1,1 +1,1 @@
-# SamMediaAutomationFramework
+This project is written in java and will serve an example of implementing a Selenium test project with Selenium and Maven. Everything is set up and tests can be added straight away.. To execute the tests go to selenium and right click the in your IDE. Maven profiles for all browsers exists in the pom.xml.
